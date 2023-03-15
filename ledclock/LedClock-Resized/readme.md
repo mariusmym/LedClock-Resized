@@ -11,8 +11,12 @@ You can order them directly from [my PCBWay profile](https://www.pcbway.com/proj
 - 3D printed parts can be printed on smaller printers because the base is split in half (you have to assemble it with some M3 screws and nuts). I printed my parts on an Ender3 V2, so I guess anyone can print them.
 - 3D printed parts can be printed without supports. Please check 3mf folder to see orientation if you can't figure it out.
 - controller board, led 7segments and dots now uses only 0805 SMD components for easier soldering. I don't have a reflow hot-plate so I made the assembly by hand.
-- controller board now uses an **ESP32 D1 Mini** [link for reference](https://www.aliexpress.com/item/1005003746817278.html) for more convenience. By using an embedded ESP32 you will have to overcomplicate the board. Another reason for using a dedicated ESP32 D1 Mini was because some of the components required in the original design are impossible to solder by hand (CP2102). 
-Just upload the firmware on the ESP32 Mini (you can use [this awesome tool](https://imeszaros.github.io/ledclock/) for initial flash) and then plug it into the main controller board. Use [this guide](https://github.com/imeszaros/ledclock/blob/master/ledclock/users-guide.md) if you're not familiarized with WLED App 
+- controller board now uses an **ESP32 D1 Mini** [link for reference](https://www.aliexpress.com/item/1005003746817278.html) for more convenience. By using an embedded ESP32 you will have to overcomplicate the board. Another reason for using a dedicated ESP32 D1 Mini is because some of the components required in the original design are impossible to solder by hand (CP2102). 
+
+## Firmware
+
+Firmware is provided by the awesome work of [@imeszaros](https://github.com/imeszaros). 
+Just connect the ESP32 Mini onto the computer (be sure you have drivers installed for CHxxxx or CPxxxx chip) and use [this awesome tool](https://imeszaros.github.io/ledclock/) for initial flash. Then plug the ESP32 it into the main controller board
 
 ## Assembly
 
@@ -31,7 +35,7 @@ Assembly of this project is pretty straightforward:
 ![d58b3460-f934-42f0-a672-9b96344d7cfe](https://user-images.githubusercontent.com/33284097/225268872-84bfbeff-a710-4290-a9c6-510880cce183.jpg)
 
 
-- flash the firmware on the ESP32 Mini and then connect it to the controller board 
+- flash the firmware on the ESP32 Mini and then connect it to the controller board.
 
 ![IMG_4004s](https://user-images.githubusercontent.com/33284097/225225687-42c8acf4-887e-4b77-9996-423cc3cb9869.jpg)
 
@@ -43,7 +47,7 @@ Assembly of this project is pretty straightforward:
 
 
 - **provide 5V 2A power supply with barrel jack connector.** 
-- make your settings in the WLED APP.
+- make your settings in the WLED APP. Use [this guide](https://github.com/imeszaros/ledclock/blob/master/ledclock/users-guide.md) if you're not familiarized with WLED App.
 
 ## ENJOY !
 
