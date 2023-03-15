@@ -7,7 +7,7 @@ As its name tells, this is a resized and an easier to make version of ledclock p
 Main differences are:
 
 - all PCBs are under 100mm height so you can order them for like $5 + shipping from [PCBWay.com](https://www.pcbway.com/) .
-You can order them directly from [my PCBWay profile](https://www.pcbway.com/project/member/?bmbno=1D9FACD8-0C52-4C) you can download the gerber files and send them to your manufacturer. 
+You can also order them directly from [my PCBWay profile](https://www.pcbway.com/project/member/?bmbno=1D9FACD8-0C52-4C) you can download the gerber files and send them to your manufacturer. 
 - 3D printed parts can be printed on smaller printers because the base is split in half (you have to assemble it with some M3 screws and nuts). I printed my parts on an Ender3 V2, so I guess anyone can print them.
 - 3D printed parts can be printed without supports. Please check 3mf folder to see orientation if you can't figure it out.
 - controller board, led 7segments and dots now uses only 0805 SMD components for easier soldering. I don't have a reflow hot-plate so I made the assembly by hand.
