@@ -17,15 +17,19 @@ You can order them directly from [my PCBWay profile](https://www.pcbway.com/proj
 
 Assembly of this project is pretty straightforward: 
 - order the PCBs and solder them
+
 ![28373dad-76af-430c-a674-46bc3df38653](https://user-images.githubusercontent.com/33284097/225260832-e014ee05-3100-40c5-8c8a-fdfabf3fa48a.jpg)
 
-- print the 3D required parts and assemble them (use 4 x M3x20mm screws and nuts to join the base), 
+- print the 3D required parts and assemble them (use 4 x M3x20mm screws and nuts to join the base)
+
 ![IMG_3756s](https://user-images.githubusercontent.com/33284097/225260905-eb07e417-62f4-4fcd-8a7b-c8a6aaa48eae.jpg)
 
 - flash the firmware on the ESP32 Mini and then connect it to the controller board 
+
 ![IMG_4004s](https://user-images.githubusercontent.com/33284097/225225687-42c8acf4-887e-4b77-9996-423cc3cb9869.jpg)
 
 - join the PCBs with the 3D printed parts
+
 ![d932719f-d477-4b1a-8fd8-3f6773710fba](https://user-images.githubusercontent.com/33284097/225263167-3286ab95-2398-4f4f-985e-f0eda899dea5.jpg)
 
 **Provide 5V 2A power supply with barrel jack connector.** 
