@@ -20,6 +20,9 @@ Assembly of this project is pretty straightforward:
 
 ![28373dad-76af-430c-a674-46bc3df38653](https://user-images.githubusercontent.com/33284097/225260832-e014ee05-3100-40c5-8c8a-fdfabf3fa48a.jpg)
 
+![IMG_3859](https://user-images.githubusercontent.com/33284097/225264999-68a3b3eb-f121-4b17-bbce-71934203925d.jpg)
+
+
 - print the 3D required parts and assemble them (use 4 x M3x20mm screws and nuts to join the base)
 
 ![IMG_3756s](https://user-images.githubusercontent.com/33284097/225260905-eb07e417-62f4-4fcd-8a7b-c8a6aaa48eae.jpg)
@@ -31,6 +34,9 @@ Assembly of this project is pretty straightforward:
 - join the PCBs with the 3D printed parts
 
 ![d932719f-d477-4b1a-8fd8-3f6773710fba](https://user-images.githubusercontent.com/33284097/225263167-3286ab95-2398-4f4f-985e-f0eda899dea5.jpg)
+
+![IMG_1876s](https://user-images.githubusercontent.com/33284097/225265164-2a76d4e5-60c1-4a1f-b002-5c01b62f5aec.jpg)
+
 
 **Provide 5V 2A power supply with barrel jack connector.** 
 Make your settings in the WLED APP.
