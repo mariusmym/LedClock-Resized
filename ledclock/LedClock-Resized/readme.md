@@ -46,7 +46,7 @@ Assembly of this project is pretty straightforward:
 ![IMG_1876s](https://user-images.githubusercontent.com/33284097/225265164-2a76d4e5-60c1-4a1f-b002-5c01b62f5aec.jpg)
 
 
-- **provide 5V 2A power supply with barrel jack connector.** 
+- **provide 5V 2A power supply with  2.5mm x 5.85mm barrel jack connector.** 
 - make your settings in the WLED APP. Use [this guide](https://github.com/imeszaros/ledclock/blob/master/ledclock/users-guide.md) if you're not familiarized with WLED App.
 
 ## ENJOY !
