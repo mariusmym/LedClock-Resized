@@ -3,7 +3,8 @@
 ## About
 
 As its name tells, this is a resized and an easier to make version of ledclock project. 
-This fork is intended just to share the Gerbers and 3D files I used for this remix. Please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock). 
+This fork is intended just to share the Gerbers and 3D files I used for this remix. Please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock).
+
 [imeszaros](https://github.com/imeszaros) did an oustanding job in providing all the explanations required. 
 
 Main differences are:
