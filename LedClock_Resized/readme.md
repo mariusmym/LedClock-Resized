@@ -3,7 +3,7 @@
 ## About
 
 As its name tells, this is a resized and an easier to make version of ledclock project. 
-This fork is intended just to share the Gerbers and 3D files I used for this remix. Please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock). imeszaros(https://github.com/imeszaros) did an oustanding job in providing all the explanations required. 
+This fork is intended just to share the Gerbers and 3D files I used for this remix. Please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock). [imeszaros](https://github.com/imeszaros) did an oustanding job in providing all the explanations required. 
 
 Main differences are:
 
@@ -17,7 +17,7 @@ f you want, **you can use the original controller board design**, is fully compa
 
 ## Firmware
 
-Firmware is provided by the awesome work of [@imeszaros](https://github.com/imeszaros). 
+Firmware is provided by the awesome work of [imeszaros](https://github.com/imeszaros). 
 Just connect the ESP32 Mini onto the computer (be sure you have drivers installed for CHxxxx or CPxxxx chip) and use [this awesome tool](https://imeszaros.github.io/ledclock/) for initial flash. Then plug the ESP32 it into the main controller board
 
 ## Assembly
