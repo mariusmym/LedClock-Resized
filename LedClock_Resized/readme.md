@@ -2,7 +2,8 @@
 
 ## About
 
-As its name tells, this is a resized and an easier to make version of ledclock project.
+As its name tells, this is a resized and an easier to make version of ledclock project. 
+This fork is intended just to share the Gerbers and 3D files I used for this remix. Please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock). imeszaros(https://github.com/imeszaros) did an oustanding job in providing all the explanations required. 
 
 Main differences are:
 
@@ -11,7 +12,8 @@ You can also order them directly from [my PCBWay profile](https://www.pcbway.com
 - 3D printed parts can be printed on smaller printers because the base is split in half (you have to assemble it with some M3 screws and nuts). I printed my parts on an Ender3 V2, so I guess anyone can print them.
 - 3D printed parts can be printed without supports. Please check 3mf folder to see orientation if you can't figure it out.
 - controller board, led 7segments and dots now uses only 0805 SMD components for easier soldering. I don't have a reflow hot-plate so I made the assembly by hand.
-- controller board now uses an **ESP32 D1 Mini** [link for reference](https://www.aliexpress.com/item/1005003746817278.html) for more convenience. By using an embedded ESP32 you will have to overcomplicate the board. Another reason for using a dedicated ESP32 D1 Mini is because some of the components required in the original design are impossible to solder by hand (CP2102). 
+- controller board now uses an **ESP32 D1 Mini** [link for reference](https://www.aliexpress.com/item/1005003746817278.html) for more convenience. By using an embedded ESP32 you will have to overcomplicate the board. Another reason for using a dedicated ESP32 D1 Mini is because some of the components required in the original design are impossible to solder by hand (CP2102). I
+f you want, **you can use the original controller board design**, is fully compatible with **LedClock-Resized**.
 
 ## Firmware
 
