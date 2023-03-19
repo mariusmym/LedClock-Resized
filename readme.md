@@ -19,7 +19,7 @@ A customizable 7-segment style Wi-Fi connected clock powered by [WLED](https://g
 As its name tells, this is a resized and an easier to make/print version of [ledclock project](https://github.com/imeszaros/ledclock). 
 
 There are TWO resized dimensions available: 
-  1. 52x92mm digits version : [see folder] (https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
+  1. 52x92mm digits version : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
   2. 40x66mm digits version : [WIP]
 
 Since the project is basically the same (except for digits PCBs and 3D printed parts)i though there's no point to make another fork.
