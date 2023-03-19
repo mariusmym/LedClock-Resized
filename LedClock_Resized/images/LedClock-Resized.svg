@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   height="62mm"
+   viewBox="0 0 297 62"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -33,11 +33,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient874"
        id="linearGradient876"
-       x1="16.463744"
-       y1="88.501716"
+       x1="16.463743"
+       y1="88.501717"
        x2="281.31577"
        y2="90.072464"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.1217635,-58.641169)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,8 +48,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97714498"
-     inkscape:cx="397.59913"
-     inkscape:cy="362.16422"
+     inkscape:cx="549.66184"
+     inkscape:cy="157.4863"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -76,15 +77,15 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:italic;font-weight:bold;font-size:27.7417px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold Italic';opacity:1;mix-blend-mode:normal;fill:url(#linearGradient876);fill-opacity:1;stroke-width:0.13232922;stroke-miterlimit:4;stroke-dasharray:none"
-       x="14.826983"
-       y="99.265495"
+       style="font-style:italic;font-weight:bold;font-size:27.7417px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold Italic';opacity:1;mix-blend-mode:normal;fill:url(#linearGradient876);fill-opacity:1;stroke-width:0.132329;stroke-miterlimit:4;stroke-dasharray:none"
+       x="22.948748"
+       y="40.624325"
        id="text832"
        transform="scale(0.96683224,1.0343056)"><tspan
          sodipodi:role="line"
          id="tspan830"
-         x="14.826983"
-         y="99.265495"
-         style="font-size:27.7417px;fill:url(#linearGradient876);fill-opacity:1;stroke-width:0.13232922;stroke-miterlimit:4;stroke-dasharray:none">LedClock-Resized</tspan></text>
+         x="22.948748"
+         y="40.624325"
+         style="font-size:27.7417px;fill:url(#linearGradient876);fill-opacity:1;stroke-width:0.132329;stroke-miterlimit:4;stroke-dasharray:none">LedClock-Resized</tspan></text>
   </g>
 </svg>
