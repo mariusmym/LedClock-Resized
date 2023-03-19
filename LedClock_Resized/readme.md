@@ -1,3 +1,11 @@
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/imeszaros/ledclock/master/LICENSE"><img src="https://img.shields.io/github/license/mariusmym/LedClock-Resized?color=blue&style=flat-square"></a>
+  <a href="https://github.com/Aircoookie/WLED-App"><img src="https://img.shields.io/badge/app-wled-blue.svg?style=flat-square"></a>
+  <a href="https://www.printables.com/model/189433-wi-fi-connected-led-clock-powered-by-wled"><img src="https://img.shields.io/badge/models-printables-orange.svg?style=flat-square"></a>
+  <a href="https://imeszaros.github.io/ledclock/"><img src="https://img.shields.io/badge/install-esp%20web%20tools-green"></a>
+</p>
+
 # LedClock-Resized
 
 ## About
@@ -26,7 +34,7 @@ f you want, **you can use the original controller board design**, is fully compa
 ## Firmware
 
 Firmware is provided by the awesome work of [imeszaros](https://github.com/imeszaros). 
-Just connect the ESP32 Mini onto the computer (be sure you have drivers installed for CHxxxx or CPxxxx chip) and use [this awesome tool](https://imeszaros.github.io/ledclock/) for initial flash. Then plug the ESP32 it into the main controller board
+Just connect the ESP32 Mini onto the computer (be sure you have drivers installed for your board USB-TTL chip) and use [this awesome tool](https://imeszaros.github.io/ledclock/) for initial flash. Then plug the ESP32 it into the main controller board
 
 ## Assembly
 
