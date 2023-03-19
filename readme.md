@@ -1,4 +1,4 @@
-![LED Clock](/LedClock-Resized/blob/master/LedClock_Resized/images/LedClock-Resized.svg)
+![LED Clock](/LedClock_Resized/images/LedClock-Resized.svg)
 <p align="center">
   <a href="https://github.com/imeszaros/ledclock/releases"><img src="https://img.shields.io/github/release/imeszaros/ledclock.svg?style=flat-square"></a>
   <a href="https://raw.githubusercontent.com/imeszaros/ledclock/master/LICENSE"><img src="https://img.shields.io/github/license/imeszaros/ledclock?color=blue&style=flat-square"></a>
