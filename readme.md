@@ -83,7 +83,3 @@ Assembly of this project is pretty straightforward:
 ## ENJOY !
 
 ![Untitled-1](https://user-images.githubusercontent.com/33284097/226278056-5e291a09-aa8a-40cc-9cf0-1eedfa45291e.jpg)
-
-![IMG_4708s](https://user-images.githubusercontent.com/33284097/226272101-bacbb97a-3bcf-4ba3-9add-bbc18e574584.jpg)
-
-![34732020s](https://user-images.githubusercontent.com/33284097/225227034-317f5321-3a94-4aa8-82e6-43c88644d651.jpg)
