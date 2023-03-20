@@ -16,14 +16,17 @@ As its name tells, this is a resized and an easier to make/print version of [led
 
 There are TWO resized dimensions available: 
   1. **52x92mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
-  2. **40x66mm digits version** : [WIP]
+  2. **40x66mm digits version** : [seefolder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock-Resized2-40x66mm)
+  
+  ![IMG_4681s](https://user-images.githubusercontent.com/33284097/226269169-67dc9131-ec49-49e8-87a8-996bbaaf148d.jpg)
+
 
 Since the project is basically the same (except for digits PCBs and 3D printed parts)i though there's no point to make another fork.
 
 This fork is intended just to share the Gerbers and 3D files I used for this remix. If you need more detailed informations, please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock).
 [imeszaros](https://github.com/imeszaros) did an oustanding job in providing all the explanations required. 
 
-Main differences are:
+##Main differences are:
 
 - all PCBs are under 100mm height so you can order them for like $5 + shipping from [PCBWay.com](https://www.pcbway.com/) .
 You can also order them directly from [my PCBWay profile](https://www.pcbway.com/project/member/?bmbno=1D9FACD8-0C52-4C) you can download the gerber files and send them to your manufacturer. 
@@ -47,12 +50,18 @@ Assembly of this project is pretty straightforward:
 
 ![IMG_3859](https://user-images.githubusercontent.com/33284097/225264999-68a3b3eb-f121-4b17-bbce-71934203925d.jpg)
 
+![IMG_2576s](https://user-images.githubusercontent.com/33284097/226269324-80c88802-7277-4997-8e7e-ac22dc634840.jpg)
 
-- print the 3D required parts and assemble them (use 4 x M3x20mm screws and nuts to join the base)
+
+
+- print the 3D required parts and assemble them (use 4 x M3x20mm screws and nuts to join the base of the 52x92mm version)
 
 ![IMG_3756s](https://user-images.githubusercontent.com/33284097/225260905-eb07e417-62f4-4fcd-8a7b-c8a6aaa48eae.jpg)
 
 ![d58b3460-f934-42f0-a672-9b96344d7cfe](https://user-images.githubusercontent.com/33284097/225268872-84bfbeff-a710-4290-a9c6-510880cce183.jpg)
+
+![IMG_2581s](https://user-images.githubusercontent.com/33284097/226269695-1de8adfd-0955-4a23-a1ce-dd774d86deaa.jpg)
+
 
 
 - flash the firmware on the ESP32 Mini and then connect it to the controller board.
