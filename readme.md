@@ -14,7 +14,7 @@
 As its name tells, this is a resized and an easier to make/print version of [ledclock project](https://github.com/imeszaros/ledclock), powered by [WLED](https://github.com/Aircoookie/WLED). 
 
 
-There are TWO resized dimensions available: 
+**There are TWO resized dimensions available:** 
   1. **52x92mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
   2. **40x66mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock-Resized2-40x66mm)
   
