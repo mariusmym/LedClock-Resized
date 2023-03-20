@@ -61,8 +61,6 @@ Assembly of this project is pretty straightforward:
 
 ![d58b3460-f934-42f0-a672-9b96344d7cfe](https://user-images.githubusercontent.com/33284097/225268872-84bfbeff-a710-4290-a9c6-510880cce183.jpg)
 
-![IMG_2581s](https://user-images.githubusercontent.com/33284097/226269695-1de8adfd-0955-4a23-a1ce-dd774d86deaa.jpg)
-
 
 
 - flash the firmware on the ESP32 Mini and then connect it to the controller board.
@@ -70,6 +68,8 @@ Assembly of this project is pretty straightforward:
 ![IMG_4004s](https://user-images.githubusercontent.com/33284097/225225687-42c8acf4-887e-4b77-9996-423cc3cb9869.jpg)
 
 - join the PCBs with the 3D printed parts
+
+![IMG_2581s](https://user-images.githubusercontent.com/33284097/226269695-1de8adfd-0955-4a23-a1ce-dd774d86deaa.jpg)
 
 ![d932719f-d477-4b1a-8fd8-3f6773710fba](https://user-images.githubusercontent.com/33284097/225263167-3286ab95-2398-4f4f-985e-f0eda899dea5.jpg)
 
