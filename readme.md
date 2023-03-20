@@ -26,7 +26,7 @@ As its name tells, this is a resized and an easier to make/print version of [led
 This fork is intended just to share the Gerbers and 3D files I used for this remix. If you need more detailed informations, please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock).
 [imeszaros](https://github.com/imeszaros) did an oustanding job in providing all the explanations required. 
 
-## Main differences are:
+## Main differences
 
 - all PCBs are under 100mm height so you can order them for like $5 + shipping from [PCBWay.com](https://www.pcbway.com/) .
 You can also order them directly from [my PCBWay profile](https://www.pcbway.com/project/member/?bmbno=1D9FACD8-0C52-4C) you can download the gerber files and send them to your manufacturer. 
