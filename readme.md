@@ -39,7 +39,7 @@ f you want, **you can use the original controller board design**, is fully compa
 ## Firmware
 
 Firmware is provided by the awesome work of [imeszaros](https://github.com/imeszaros). 
-Just connect the ESP32 Mini onto the computer (be sure you have drivers installed for your board USB-TTL chip) and use [this awesome tool](https://imeszaros.github.io/ledclock/) for initial flash. Then plug the ESP32 it into the main controller board
+Just connect the ESP32 Mini onto the computer (be sure you have drivers installed for your board USB-TTL chip) and use [this tool](https://imeszaros.github.io/ledclock/) for initial flash. Then plug the ESP32 board it into the main controller board.
 
 ## Assembly
 
