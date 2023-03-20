@@ -17,6 +17,7 @@ As its name tells, this is a resized and an easier to make/print version of [led
 There are TWO resized dimensions available: 
   1. **52x92mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
   2. **40x66mm digits version** : [seefolder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock-Resized2-40x66mm)
+**Keep in mind that dimensions mentioned above represents only the height of the PCB digits. The base is not included. Height of the base is 30.50mm.**
   
   ![IMG_4681s](https://user-images.githubusercontent.com/33284097/226269169-67dc9131-ec49-49e8-87a8-996bbaaf148d.jpg)
 
