@@ -7,16 +7,12 @@
   <a href="https://imeszaros.github.io/ledclock/"><img src="https://img.shields.io/badge/install-esp%20web%20tools-green"></a>
 </p>
 
-# LED Clock
-
-A customizable 7-segment style Wi-Fi connected clock powered by [WLED](https://github.com/Aircoookie/WLED). 
-
-
 # LedClock-Resized
 
 ## About
 
-As its name tells, this is a resized and an easier to make/print version of [ledclock project](https://github.com/imeszaros/ledclock). 
+As its name tells, this is a resized and an easier to make/print version of [ledclock project](https://github.com/imeszaros/ledclock), powered by [WLED](https://github.com/Aircoookie/WLED). 
+
 
 There are TWO resized dimensions available: 
   1. **52x92mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
