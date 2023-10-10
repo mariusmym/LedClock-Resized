@@ -18,9 +18,9 @@ As its name tells, this is a resized and an easier to make/print version of [led
   1. **52x92mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock_Resized)
   2. **40x66mm digits version** : [see folder](https://github.com/mariusmym/LedClock-Resized/tree/master/LedClock-Resized2-40x66mm)
   
-**Keep in mind that dimensions mentioned above represents only the height of the PCB digits. The base is not included. Height of the base is 30.50mm for both.**
+**Keep in mind that dimensions mentioned above represents only the height of the PCB digits. The base is not included. Height of the base is the same.**
   
-  ![IMG_4681s](https://user-images.githubusercontent.com/33284097/226269169-67dc9131-ec49-49e8-87a8-996bbaaf148d.jpg)
+![IMG_3209 copy](https://github.com/mariusmym/LedClock-Resized/assets/33284097/a0243b88-147e-4cb1-b519-e2d0f5a27cc9)
 
 
 This fork is intended just to share the Gerbers and 3D files I used for this remix. If you need more detailed informations, please read descriptions and assembly guide from the [original repository](https://github.com/imeszaros/ledclock).
