@@ -28,7 +28,7 @@ This fork is intended just to share the Gerbers and 3D files I used for this rem
 
 ## Main differences
 
-- all PCBs are under 100mm height so you can order them for like $5 + shipping from [PCBWay.com](https://www.pcbway.com/) .
+- all PCBs are under 100mm height so you can order them for like $5 + shipping from [PCBWay.com](https://www.pcbway.com/) or [JLCPCB.com](https://www.jlcpcb.com/).
 You can also order them directly from [my PCBWay profile](https://www.pcbway.com/project/member/?bmbno=1D9FACD8-0C52-4C) you can download the gerber files and send them to your manufacturer. 
 - 3D printed parts can be printed on smaller printers because the base is split in half (you have to assemble it with some M3 screws and nuts). I printed my parts on an Ender3 V2, so I guess anyone can print them.
 - 3D printed parts can be printed without supports. Please check 3mf folder to see orientation if you can't figure it out.
